@@ -23,12 +23,13 @@ I'm an undergraduate student majoring in Information Systems. I thrive on the in
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
-<br><br>
+<br><br><br>
 
 #
 
 ### 📈 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trisnobp&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisnobp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trisnobp&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisnobp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
           
           
           
