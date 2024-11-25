@@ -17,6 +17,7 @@ I'm an undergraduate student majoring in Information Systems. I thrive on the in
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40px" style="margin: 10px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
